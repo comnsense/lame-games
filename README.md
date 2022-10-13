@@ -1,1 +1,1 @@
-# webpaint-demo
+# lame games
