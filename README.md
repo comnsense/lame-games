@@ -13,4 +13,5 @@ https://comnsense.github.io/lame-games/blkandwht/index
 3. Responsive Snake 
 https://comnsense.github.io/lame-games/ResponsiveSnake-master/index.html
 
-4. Dice Simulator in python 
+4.Tic-Tac-Toe 
+https://comnsense.github.io/lame-games/ Tic-Tac-Toe-Game/index.html
